@@ -1,0 +1,705 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 230746,
+      "sizes": {
+        "javascript": 181352,
+        "share-init": 294,
+        "runtime": 49100
+      },
+      "names": [
+        "@miirochristopher/esm-patient-banner-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app"
+      ],
+      "files": [
+        "miirochristopher-esm-patient-banner-app.js"
+      ],
+      "auxiliaryFiles": [
+        "miirochristopher-esm-patient-banner-app.js.map"
+      ],
+      "hash": "43ad299c486ea268",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 212544,
+      "sizes": {
+        "javascript": 212460,
+        "consume-shared": 84
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "esm-patient-common-lib_src_index_ts-esm-patient-common-lib_src_nav-group_DashboardGroupExtens-fabda7.js"
+      ],
+      "auxiliaryFiles": [
+        "esm-patient-common-lib_src_index_ts-esm-patient-common-lib_src_nav-group_DashboardGroupExtens-fabda7.js.map"
+      ],
+      "hash": "b3f32025523caebe",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 4700379,
+      "sizes": {
+        "javascript": 4650125,
+        "consume-shared": 210,
+        "share-init": 294,
+        "runtime": 49750
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "077ddbdf61e7083b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 420,
+      "sizes": {
+        "javascript": 420
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "node_modules_babel_runtime_helpers_esm_assertThisInitialized_js-node_modules_babel_runtime_he-f0206e.js"
+      ],
+      "auxiliaryFiles": [
+        "node_modules_babel_runtime_helpers_esm_assertThisInitialized_js-node_modules_babel_runtime_he-f0206e.js.map"
+      ],
+      "hash": "70a5bd538d1cb2a7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 348,
+      "sizes": {
+        "javascript": 348
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js.js"
+      ],
+      "auxiliaryFiles": [
+        "node_modules_babel_runtime_helpers_esm_objectWithoutPropertiesLoose_js.js.map"
+      ],
+      "hash": "97e4da2427315565",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 480,
+      "sizes": {
+        "javascript": 480
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "node_modules_swr_immutable_dist_index_mjs-_56120.js"
+      ],
+      "auxiliaryFiles": [
+        "node_modules_swr_immutable_dist_index_mjs-_56120.js.map"
+      ],
+      "hash": "666877af65d8a046",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 480,
+      "sizes": {
+        "javascript": 480
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "node_modules_swr_immutable_dist_index_mjs-_56121.js"
+      ],
+      "auxiliaryFiles": [
+        "node_modules_swr_immutable_dist_index_mjs-_56121.js.map"
+      ],
+      "hash": "ce50a9507fc64b14",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 12069,
+      "sizes": {
+        "javascript": 12069
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "node_modules_uuid_dist_esm-browser_v4_js-node_modules_lodash-es_isEmpty_js-node_modules_lodas-cf3c5a.js"
+      ],
+      "auxiliaryFiles": [
+        "node_modules_uuid_dist_esm-browser_v4_js-node_modules_lodash-es_isEmpty_js-node_modules_lodas-cf3c5a.js.map"
+      ],
+      "hash": "9dd74c10f6c13013",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 69603,
+      "sizes": {
+        "javascript": 69603
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app"
+      ],
+      "files": [
+        "src_index_ts.js"
+      ],
+      "auxiliaryFiles": [
+        "src_index_ts.js.map"
+      ],
+      "hash": "8eb38529bbcf88f0",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 239,
+      "sizes": {
+        "javascript": 239
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "translations_am_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0098419284fade36",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 255,
+      "sizes": {
+        "javascript": 255
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "translations_ar_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b086778b3256ae64",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 239,
+      "sizes": {
+        "javascript": 239
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "translations_en_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a003e6f9b4c3b5db",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 254,
+      "sizes": {
+        "javascript": 254
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "translations_es_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "db5d4094fd400278",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 239,
+      "sizes": {
+        "javascript": 239
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "translations_fr_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "be6aa36f13addd8d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 219,
+      "sizes": {
+        "javascript": 219
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "translations_he_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "55826d2384950530",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 250,
+      "sizes": {
+        "javascript": 250
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "translations_km_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b32281b96fcb769c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 185,
+      "sizes": {
+        "javascript": 185
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "translations_zh_CN_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "72b877d95f1ba854",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 185,
+      "sizes": {
+        "javascript": 185
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "translations_zh_json.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "157111024e78208d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 4366499,
+      "sizes": {
+        "javascript": 4366499
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "vendors-node_modules_carbon_react_es_index_js-node_modules_openmrs_webpack-config_node_module-ff3da0.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_carbon_react_es_index_js-node_modules_openmrs_webpack-config_node_module-ff3da0.js.map"
+      ],
+      "hash": "f315421b0ad0e9a9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 1795743,
+      "sizes": {
+        "javascript": 1795743
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "vendors-node_modules_openmrs_esm-framework_src_internal_ts.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_openmrs_esm-framework_src_internal_ts.js.map"
+      ],
+      "hash": "ddccedf33b3b46b1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 39719,
+      "sizes": {
+        "javascript": 39719
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "vendors-node_modules_react-i18next_dist_es_index_js.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_react-i18next_dist_es_index_js.js.map"
+      ],
+      "hash": "52ce24d1380ff590",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 251616,
+      "sizes": {
+        "javascript": 251616
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "vendors-node_modules_react-router-dom_dist_index_js.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_react-router-dom_dist_index_js.js.map"
+      ],
+      "hash": "d09edd3bac4bb431",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 87783,
+      "sizes": {
+        "javascript": 87783
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "vendors-node_modules_react_index_js.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_react_index_js.js.map"
+      ],
+      "hash": "fc5df0a33cb7ea30",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 25530,
+      "sizes": {
+        "javascript": 25530
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "vendors-node_modules_swr__internal_dist_index_mjs.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_swr__internal_dist_index_mjs.js.map"
+      ],
+      "hash": "5d02d8e5dd00fff2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 32713,
+      "sizes": {
+        "javascript": 32713
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "vendors-node_modules_swr_core_dist_index_mjs.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_swr_core_dist_index_mjs.js.map"
+      ],
+      "hash": "70f5661182bff61f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 12069,
+      "sizes": {
+        "javascript": 12069
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [
+        "vendors-node_modules_uuid_dist_esm-browser_v4_js-node_modules_lodash-es_isEmpty_js-node_modul-5cca1d.js"
+      ],
+      "auxiliaryFiles": [
+        "vendors-node_modules_uuid_dist_esm-browser_v4_js-node_modules_lodash-es_isEmpty_js-node_modul-5cca1d.js.map"
+      ],
+      "hash": "5b155f854214e487",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 126,
+      "sizes": {
+        "consume-shared": 126
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "a31fe92e44c6afc3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "bd6ecf5bc2c7ec58",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@miirochristopher/esm-patient-banner-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "d7c8fbe1a0d77f12",
+      "childrenByOrder": {}
+    }
+  ]
+}

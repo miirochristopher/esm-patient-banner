@@ -1,0 +1,12 @@
+{
+  "address1": "سطر العنوان الأول",
+  "address2": "سطر العنوان الثاني",
+  "city": "المدينة",
+  "cityVillage": "المدينة",
+  "country": "الدولة",
+  "countyDistrict": "المنطقة",
+  "district": "المنطقة",
+  "postalCode": "الرمز البريدي",
+  "state": "الولاية",
+  "stateProvince": "الولاية"
+}
