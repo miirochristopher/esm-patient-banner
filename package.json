@@ -1,6 +1,6 @@
 {
   "name": "@miirochristopher/esm-patient-banner-app",
-  "version": "8.0.1",
+  "version": "8.0.2",
   "license": "MPL-2.0",
   "description": "Patient banner microfrontend for the OpenMRS SPA",
   "browser": "dist/miirochristopher-esm-patient-banner-app.js",

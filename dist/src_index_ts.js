@@ -862,7 +862,7 @@ var Dashscore = function(param) {
         style: {
             marginLeft: "1rem"
         }
-    }, data.score))) : /*#__PURE__*/ react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
+    }, data.data.results))) : /*#__PURE__*/ react__WEBPACK_IMPORTED_MODULE_0___default().createElement("li", {
         style: {
             marginLeft: "1rem"
         }
@@ -942,13 +942,13 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function useDashscore(patientUuid) {
-    var apiUrl = "".concat(_openmrs_esm_framework__WEBPACK_IMPORTED_MODULE_0__.restBaseUrl, "/outcomes/score/").concat(patientUuid);
-    var _useSWR = (0,swr__WEBPACK_IMPORTED_MODULE_1__["default"])(patientUuid ? apiUrl : null, _openmrs_esm_framework__WEBPACK_IMPORTED_MODULE_0__.openmrsFetch), data = _useSWR.data, error = _useSWR.error, isLoading = _useSWR.isLoading, isValidating = _useSWR.isValidating;
+    var url = "".concat(_openmrs_esm_framework__WEBPACK_IMPORTED_MODULE_0__.restBaseUrl, "/outcomes/score/").concat(patientUuid);
+    var _useSWR = (0,swr__WEBPACK_IMPORTED_MODULE_1__["default"])(patientUuid ? url : null, _openmrs_esm_framework__WEBPACK_IMPORTED_MODULE_0__.openmrsFetch), data = _useSWR.data, error = _useSWR.error, isLoading = _useSWR.isLoading, mutate = _useSWR.mutate;
     return {
-        data: data ? data.data.result : null,
+        data: data,
         isError: error,
         isLoading: isLoading,
-        isValidating: isValidating
+        mutate: mutate
     };
 }
 

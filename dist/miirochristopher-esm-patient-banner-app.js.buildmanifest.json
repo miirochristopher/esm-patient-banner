@@ -24,7 +24,7 @@
       "auxiliaryFiles": [
         "miirochristopher-esm-patient-banner-app.js.map"
       ],
-      "hash": "43ad299c486ea268",
+      "hash": "2c6642b2a3545570",
       "childrenByOrder": {}
     },
     {
@@ -58,9 +58,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 4700379,
+      "size": 4700330,
       "sizes": {
-        "javascript": 4650125,
+        "javascript": 4650076,
         "consume-shared": 210,
         "share-init": 294,
         "runtime": 49750
@@ -78,7 +78,7 @@
       "auxiliaryFiles": [
         "main.js.map"
       ],
-      "hash": "077ddbdf61e7083b",
+      "hash": "94ca9e0b52150d14",
       "childrenByOrder": {}
     },
     {
@@ -206,9 +206,9 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "size": 69603,
+      "size": 69554,
       "sizes": {
-        "javascript": 69603
+        "javascript": 69554
       },
       "names": [],
       "idHints": [],
@@ -221,7 +221,7 @@
       "auxiliaryFiles": [
         "src_index_ts.js.map"
       ],
-      "hash": "8eb38529bbcf88f0",
+      "hash": "a27de4a4b11c6946",
       "childrenByOrder": {}
     },
     {

@@ -22,7 +22,7 @@ const Dashscore: React.FC<{ patientUuid: string}> = ({ patientUuid }) => {
           {data ? (
             <>
               <li className={styles.relationship}>
-                <div style={{ marginLeft: '1rem' }}>{data.score}</div>
+                <div style={{ marginLeft: '1rem' }}>{data.data.results}</div>
               </li>
             </>
           ) : (
